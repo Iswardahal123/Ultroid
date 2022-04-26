@@ -15,13 +15,13 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": "", 
+            "description": "Your api id, from my.telegram.org or @ScrapperRoBot.",
+            "value": "e3b84bb4b0d7fae358798cc2efa95f28", 
             "required": false
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": "",
+            "value": "903625",
             "required": false
         },
         "SESSION": {
@@ -34,16 +34,16 @@
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
-            "value": ""
+            "value": "1BVtsOKcBu3ZJ38dFOB7GrJHhkH2Fi3F7j2M9JO7UvKunGsva1GLIlYBIZLXatKsIXwQxROQxQkIKLTfkGtuZDT3Q1-wrPjXbTXVmGHEW25fNaWvyy4cGd6Li5Yq53ReX1ygQoLkeEPqeaJOLUF1jRh_M_qfXT7vcO8GOPc5C8uv3aALPvX4ZEE137NAQQ8rrok2kw4ak9iWdnCTzs97CoZUOTeiRfJ7DVcepXExOpxJG2nkGCMzUZ6RrHoJH2ACgS5h4rD3aA9ItIlczI-ujSbvnRRzxCn5Y-M52RVfhgXP-va4DWTfjgzwOgKP6xvnWmvNw2CMa9KTZK4S_zcA226OWzOgSjP0="
         },
         "HEROKU_API": {
             "description": "Heroku API token. Mandatory for Heroku Deploy...",
-            "value": "",
+            "value": "991f93d1-b2d4-42be-a5c4-38702f4dd448",
             "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Name of your Heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
-            "value": "",
+            "value": "iswar321",
             "required": false
         }
     },
